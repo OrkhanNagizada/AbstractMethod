@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\bin\Debug\net7.0\AbstractionHomeTask.exe
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\bin\Debug\net7.0\AbstractionHomeTask.deps.json
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\bin\Debug\net7.0\AbstractionHomeTask.runtimeconfig.json
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\bin\Debug\net7.0\AbstractionHomeTask.dll
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\bin\Debug\net7.0\AbstractionHomeTask.pdb
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.dll
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\refint\AbstractionHomeTask.dll
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.pdb
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\AbstractionHomeTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\AbstractionHomeTask\AbstractionHomeTask\obj\Debug\net7.0\ref\AbstractionHomeTask.dll

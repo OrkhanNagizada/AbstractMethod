@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionHomeTask", "AbstractionHomeTask\AbstractionHomeTask.csproj", "{962161EB-1EE7-4EB2-B4A8-E905E8BD5815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractMethodHomeTask", "AbstractMethodHomeTask\AbstractMethodHomeTask.csproj", "{243E54F1-C940-4B27-BB97-D99C6A85B0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962161EB-1EE7-4EB2-B4A8-E905E8BD5815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962161EB-1EE7-4EB2-B4A8-E905E8BD5815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962161EB-1EE7-4EB2-B4A8-E905E8BD5815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962161EB-1EE7-4EB2-B4A8-E905E8BD5815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243E54F1-C940-4B27-BB97-D99C6A85B0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243E54F1-C940-4B27-BB97-D99C6A85B0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243E54F1-C940-4B27-BB97-D99C6A85B0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243E54F1-C940-4B27-BB97-D99C6A85B0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7E16B2-0539-4105-8616-DB02BF214828}
+	EndGlobalSection
+EndGlobal
